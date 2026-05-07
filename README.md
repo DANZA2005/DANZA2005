@@ -11,22 +11,13 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 
 ---
 
-## 📂 Proyectos Destacados
-- **Simulación de dos cuerpos** → Comparación entre métodos numéricos y analíticos  
-- **Herramientas GUI científicas** → Interfaces limpias y modernas para simuladores  
-- **Documentación técnica** → Plantillas y reportes académicos
-
----
-
 ## 📊 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DANZA2005&show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Conecta conmigo
-- ✉️ Email: *[tu correo aquí]*  
-- 🌐 LinkedIn: *[tu perfil aquí]*  
-- 📝 Portafolio: *[link a tu web o docs]*
+- ✉️ Email: zentenoacostad@gmail.com 
 
 ---
 
